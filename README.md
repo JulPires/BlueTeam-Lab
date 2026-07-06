@@ -80,5 +80,14 @@ BlueTeam-Lab
 This repository is continuously updated with new labs and investigations.
 
 ---
+## Evidencias
+
+![DNS](images/dns.png)
+
+![TCP Handshake](images/tcp_handshake.png)
+
+![TLS](images/tls.png)
+
+![Nmap](images/nmap.png)
 
 > Learn. Practice. Document. Improve.
