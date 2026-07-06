@@ -1,4 +1,4 @@
-# 🛡️ BlueTeam-Lab
+#  BlueTeam-Lab
 
 Welcome to my Blue Team laboratory.
 
@@ -8,7 +8,7 @@ The goal is not only to learn tools, but to understand how to investigate, detec
 
 ---
 
-# 🎯 Objectives
+#  Objectives
 
 - Learn Blue Team fundamentals.
 - Practice network traffic analysis.
@@ -19,7 +19,7 @@ The goal is not only to learn tools, but to understand how to investigate, detec
 
 ---
 
-# 🛠️ Technologies
+#  Technologies
 
 - Kali Linux
 - Wireshark
@@ -33,7 +33,7 @@ The goal is not only to learn tools, but to understand how to investigate, detec
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```text
 BlueTeam-Lab
@@ -52,7 +52,7 @@ BlueTeam-Lab
 
 ---
 
-# 📚 Learning Roadmap
+#  Learning Roadmap
 
 - [x] Networking Fundamentals
 - [x] DNS Analysis
@@ -75,12 +75,12 @@ BlueTeam-Lab
 
 ---
 
-# 🚀 Progress
+#  Progress
 
 This repository is continuously updated with new labs and investigations.
 
 ---
-## Evidencias
+#  Evidencias
 
 ![DNS](images/dns.png)
 
